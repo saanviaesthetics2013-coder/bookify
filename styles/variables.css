@@ -1,0 +1,21 @@
+:root {
+  /* Backgrounds */
+  --bg-primary: #0B0F14;
+  --bg-secondary: #111827;
+  --bg-card: #1F2937;
+
+  /* Text */
+  --text-primary: #E5E7EB;
+  --text-secondary: #9CA3AF;
+  --text-muted: #6B7280;
+
+  /* Accents */
+  --accent-blue: #38BDF8;
+  --accent-purple: #A78BFA;
+  --accent-green: #34D399;
+
+  /* Effects */
+  --blur: blur(12px);
+  --radius: 14px;
+  --transition: 0.25s ease;
+}
